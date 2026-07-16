@@ -19,8 +19,8 @@ body {
 }
 
 .headshot {
-  width: 160px;
-  height: 160px;
+  width: 90px;
+  height: 120px;
   object-fit: cover;
   border-radius: 50%;
   border: 4px solid #1963b5;
